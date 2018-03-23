@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethereumjs-testrpc": "^6.0.3",
+    "ethereumjs-tx": "1.1.2",
+    "ethereumjs-util": "4.5.0",
+    "web3": "0.17.0-alpha"
+  }
+}
